@@ -2,5 +2,6 @@
 using namespace std;
 int main(){
 	cout<<"print";
-	return 0;}
+	rcout<<"print";
+eturn 0;}
 
